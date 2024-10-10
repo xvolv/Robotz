@@ -1,2 +1,2 @@
 # Robotz
-[cool react project](https://xvolv.github.io/Robotz/)
+https://xvolv.github.io/Robotz/
