@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robotz/static/css/main.fcfb5c39.css",
+    "main.js": "/Robotz/static/js/main.ba1e4477.js",
+    "static/js/453.1f26b07b.chunk.js": "/Robotz/static/js/453.1f26b07b.chunk.js",
+    "static/media/SEGA.woff": "/Robotz/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Robotz/index.html",
+    "main.fcfb5c39.css.map": "/Robotz/static/css/main.fcfb5c39.css.map",
+    "main.ba1e4477.js.map": "/Robotz/static/js/main.ba1e4477.js.map",
+    "453.1f26b07b.chunk.js.map": "/Robotz/static/js/453.1f26b07b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcfb5c39.css",
+    "static/js/main.ba1e4477.js"
+  ]
+}
